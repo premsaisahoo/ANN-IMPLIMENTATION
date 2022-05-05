@@ -1,0 +1,10 @@
+tensorflow 
+pandas
+numpy 
+matplotlib  
+seaborn 
+PyYAML 
+
+# local package installation
+
+-e . >>>>>to insall local packages defined in the setup.py
